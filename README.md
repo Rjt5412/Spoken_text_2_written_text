@@ -15,6 +15,6 @@ Run main.py and enter the spoken text
 # Future Implementations:
 1. Fix the special character conversion. It does not work for all cases.
 2. Include proper conversion for numbers. (Eg. Three hundred and thirty three --> 333)
-3. Include date handlin
-4. Punctuation Handling
+3. Include date handling.
+4. Punctuation Handling.
 5. Include space after sentences.
