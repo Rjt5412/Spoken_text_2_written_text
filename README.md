@@ -1,5 +1,5 @@
 # Spoken_text_2_written_text
- Convert spoken english to written text
+ Convert spoken english text to written text
 
 # References:
 1. [Spoken-To-Written-English](https://github.com/vishaldhiman28/Spoken-To-Written-English)
